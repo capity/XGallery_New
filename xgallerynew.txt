@@ -1,7 +1,7 @@
 {
-  "g_intertitial" : "ca-app-pub-4736587958823322/9047985004",
-  "g_native" : "ca-app-pub-4736587958823322/5202919396",
-  "g_open" : "ca-app-pub-4736587958823322/3398883139",
+  "g_intertitial" : "ca-app-pub-3940256099942544/1033173712",
+  "g_native" :  "ca-app-pub-3940256099942544/2247696110",
+  "g_open" : "ca-app-pub-3940256099942544/3419835294",
   "on_back_random" : 0
 }
 
