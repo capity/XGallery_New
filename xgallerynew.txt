@@ -2,6 +2,9 @@
   "g_intertitial" : "ca-app-pub-4736587958823322/8764800008",
   "g_native" :  "ca-app-pub-4736587958823322/1635929652",
   "g_open" : "ca-app-pub-4736587958823322/3660647130",
+  "intertitial_new" : "ca-app-pub-1995300100722152/1688189520",
+  "native_new" :  "ca-app-pub-1995300100722152/9613591633",
+  "open_new" :  "ca-app-pub-1995300100722152/1496617833",
   "on_back_random" : 0
 }
 
