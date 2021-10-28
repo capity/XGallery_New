@@ -2,9 +2,7 @@
   "g_intertitial" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Interstitial0.1635402468",
   "g_native" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
   "g_open" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
-  "intertitial_new" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Interstitial0.1635402468",
-  "native_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
-  "open_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
+  
   "on_back_random" : 0
 }
 
@@ -16,5 +14,9 @@
 "intertitial" : "ca-app-pub-4736587958823322/8764800008",
   "native" :  "ca-app-pub-4736587958823322/1635929652",
   "open" : "ca-app-pub-4736587958823322/3660647130",
+  
+  "intertitial_new" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Interstitial0.1635402468",
+  "native_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
+  "open_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
 
 
