@@ -1,10 +1,10 @@
 {
-  "g_intertitial" : "/6499/example/interstitial",
-  "g_native" :  "/6499/example/native",
-  "g_open" : "/6499/example/app-open",
-  "intertitial_new" : "ca-app-pub-1995300100722152/1688189520",
-  "native_new" :  "ca-app-pub-1995300100722152/9613591633",
-  "open_new" :  "ca-app-pub-1995300100722152/1496617833",
+  "g_intertitial" : "ca-app-pub-4736587958823322/8764800008",
+  "g_native" :  "ca-app-pub-4736587958823322/1635929652",
+  "g_open" : "ca-app-pub-4736587958823322/3660647130",
+  "intertitial_new" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Interstitial0.1635402468",
+  "native_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
+  "open_new" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
   "on_back_random" : 0
 }
 
