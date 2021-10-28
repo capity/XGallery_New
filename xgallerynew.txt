@@ -3,7 +3,7 @@
   "g_native" :  "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.Native0.1635402351",
   "g_open" : "/22387492205,22643404291/com.easygallery.xgallery.albumlock.stylishgallery.gallerylock.galleryp.AppOpen0.1635402499",
   
-  "on_back_random" : 0
+  "on_back_random" : 1
 }
 
 
